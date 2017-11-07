@@ -1,0 +1,22 @@
+C:\Users\selmahdi\Desktop\DevOpsDays Demo\DevOpsDays\DevOpsDays\bin\Debug\netcoreapp2.0\DevOpsDays.deps.json
+C:\Users\selmahdi\Desktop\DevOpsDays Demo\DevOpsDays\DevOpsDays\bin\Debug\netcoreapp2.0\DevOpsDays.runtimeconfig.json
+C:\Users\selmahdi\Desktop\DevOpsDays Demo\DevOpsDays\DevOpsDays\bin\Debug\netcoreapp2.0\DevOpsDays.runtimeconfig.dev.json
+C:\Users\selmahdi\Desktop\DevOpsDays Demo\DevOpsDays\DevOpsDays\bin\Debug\netcoreapp2.0\DevOpsDays.dll
+C:\Users\selmahdi\Desktop\DevOpsDays Demo\DevOpsDays\DevOpsDays\bin\Debug\netcoreapp2.0\DevOpsDays.pdb
+C:\Users\selmahdi\Desktop\DevOpsDays Demo\DevOpsDays\DevOpsDays\obj\Debug\netcoreapp2.0\DevOpsDays.csprojResolveAssemblyReference.cache
+C:\Users\selmahdi\Desktop\DevOpsDays Demo\DevOpsDays\DevOpsDays\obj\Debug\netcoreapp2.0\DevOpsDays.csproj.CoreCompileInputs.cache
+C:\Users\selmahdi\Desktop\DevOpsDays Demo\DevOpsDays\DevOpsDays\obj\Debug\netcoreapp2.0\DevOpsDays.AssemblyInfoInputs.cache
+C:\Users\selmahdi\Desktop\DevOpsDays Demo\DevOpsDays\DevOpsDays\obj\Debug\netcoreapp2.0\DevOpsDays.AssemblyInfo.cs
+C:\Users\selmahdi\Desktop\DevOpsDays Demo\DevOpsDays\DevOpsDays\obj\Debug\netcoreapp2.0\DevOpsDays.dll
+C:\Users\selmahdi\Desktop\DevOpsDays Demo\DevOpsDays\DevOpsDays\obj\Debug\netcoreapp2.0\DevOpsDays.pdb
+C:\Users\selmahdi\Desktop\DevOpsDays - Final\Repo\DevOpsDaysSC\DevOpsDays\bin\Debug\netcoreapp2.0\DevOpsDays.deps.json
+C:\Users\selmahdi\Desktop\DevOpsDays - Final\Repo\DevOpsDaysSC\DevOpsDays\bin\Debug\netcoreapp2.0\DevOpsDays.runtimeconfig.json
+C:\Users\selmahdi\Desktop\DevOpsDays - Final\Repo\DevOpsDaysSC\DevOpsDays\bin\Debug\netcoreapp2.0\DevOpsDays.runtimeconfig.dev.json
+C:\Users\selmahdi\Desktop\DevOpsDays - Final\Repo\DevOpsDaysSC\DevOpsDays\bin\Debug\netcoreapp2.0\DevOpsDays.dll
+C:\Users\selmahdi\Desktop\DevOpsDays - Final\Repo\DevOpsDaysSC\DevOpsDays\bin\Debug\netcoreapp2.0\DevOpsDays.pdb
+C:\Users\selmahdi\Desktop\DevOpsDays - Final\Repo\DevOpsDaysSC\DevOpsDays\obj\Debug\netcoreapp2.0\DevOpsDays.csprojResolveAssemblyReference.cache
+C:\Users\selmahdi\Desktop\DevOpsDays - Final\Repo\DevOpsDaysSC\DevOpsDays\obj\Debug\netcoreapp2.0\DevOpsDays.csproj.CoreCompileInputs.cache
+C:\Users\selmahdi\Desktop\DevOpsDays - Final\Repo\DevOpsDaysSC\DevOpsDays\obj\Debug\netcoreapp2.0\DevOpsDays.AssemblyInfoInputs.cache
+C:\Users\selmahdi\Desktop\DevOpsDays - Final\Repo\DevOpsDaysSC\DevOpsDays\obj\Debug\netcoreapp2.0\DevOpsDays.AssemblyInfo.cs
+C:\Users\selmahdi\Desktop\DevOpsDays - Final\Repo\DevOpsDaysSC\DevOpsDays\obj\Debug\netcoreapp2.0\DevOpsDays.dll
+C:\Users\selmahdi\Desktop\DevOpsDays - Final\Repo\DevOpsDaysSC\DevOpsDays\obj\Debug\netcoreapp2.0\DevOpsDays.pdb
